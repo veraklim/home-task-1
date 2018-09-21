@@ -4,4 +4,5 @@ class task1 {
   val b = 7
   val sum = ???
   val diff = ???
+  val mult = a*b
 }
